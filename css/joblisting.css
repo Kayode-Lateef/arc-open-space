@@ -3,13 +3,26 @@
   border-radius: 32px;
   border: 1px solid #979797;
   padding: 23px 74px 22px 75px;
-  color: #fff;
   font-size: 14px;
   font-weight: 700;
   margin-top: 24px;
   margin-right: -25px;
 }
 
+.finance-btn a{
+  color: #fff;
+
+}
+
+.finance-btn a:active{
+  color: #fff;
+
+}
+
+.finance-btn a:hover{
+  color: #fff;
+
+}
 /* Tab Styles */
 
 .nav-pills .nav-link.active,
